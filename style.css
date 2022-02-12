@@ -1,0 +1,18 @@
+.banner-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px;
+}
+.prise{
+    color: #ff136f;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
