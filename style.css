@@ -1,6 +1,7 @@
 .banner-bg{
     background-color: #fceae8;
     border-radius: 10px;
+    margin-bottom: 50px;
 }
 .carousel-item{
     padding: 20px;
@@ -15,4 +16,23 @@
     border-radius: 10px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.bagpack-item, .shoes-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: red;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+   border-radius: 5px;
+   padding: 10px 30px;
+   justify-content: center;
+   align-items: center;
 }
